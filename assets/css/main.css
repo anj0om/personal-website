@@ -460,7 +460,7 @@ input, select, textarea {
 			-webkit-animation: overlay-hide 1.5s ease-in forwards !important;
 			-ms-animation: overlay-hide 1.5s ease-in forwards !important;
 			animation: overlay-hide 1.5s ease-in forwards !important;
-			background: #000000;
+			background: #2c2c2c;
 			content: '';
 			display: block;
 			height: 100%;
@@ -504,7 +504,7 @@ input, select, textarea {
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
-		color: #606060;
+		color: #a0a0a0;
 		letter-spacing: 0.025em;
 	}
 
@@ -621,8 +621,8 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #ffffff;
-		color: #39454b;
+		background: #2c2c2c;
+		color: #a0a0a0;
 		padding: 2em;
 	}
 
@@ -662,10 +662,10 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: #98c593;
+		background-color: #5f6f70;
 		border: 0;
 		border-radius: 3.5em;
-		color: #ffffff;
+		color: #a0a0a0;
 		cursor: pointer;
 		display: inline-block;
 		height: 3.5em;
@@ -736,7 +736,7 @@ input, select, textarea {
 		.button.style2,
 		button.style2 {
 			background-color: transparent;
-			border: solid 2px #e5e6e7;
+			border: solid 2px #a0a0a0;
 			color: inherit;
 		}
 
@@ -863,7 +863,7 @@ input, select, textarea {
 		width: 100%;
 		padding: 0.65em 0.75em;
 		background: none;
-		border: solid 2px #e5e6e7;
+		border: solid 2px #a0a0a0;
 		color: inherit;
 		border-radius: 0.5em;
 		outline: none;
@@ -2043,11 +2043,11 @@ input, select, textarea {
 			}
 
 			.main.style3.primary {
-				background: #ffffff;
+				background: #2c2c2c;
 			}
 
 			.main.style3.secondary {
-				background: #f5f6f7;
+				background: #2c2c2c;
 			}
 
 		.main.dark {
@@ -2059,7 +2059,7 @@ input, select, textarea {
 			}
 
 			.main.dark .button.style2 {
-				border-color: #ffffff;
+				border-color: #a0a0a0;
 			}
 
 				.main.dark .button.style2:hover {
